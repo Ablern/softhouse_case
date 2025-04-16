@@ -1,2 +1,2 @@
 # softhouse_case
-Caseuppgift 
+Caseuppgift, se pdf-filen i repot för uppgiftsbeskrivning
